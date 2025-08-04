@@ -1,0 +1,6 @@
+Complete this function that copies an array into a new array, except that neighboring elements have been swapped in pairs. If the array has an odd number of elements, leave the middle element out of the copy and then swap the remaining elements. For instance:
+{1, 2, 3, 4, 5, 6} ->
+{2, 1, 4, 3, 6, 5}
+or:
+{1, 2, 3, 4, 5, 6, 7} ->
+{2, 1, 5, 3, 7, 6}
