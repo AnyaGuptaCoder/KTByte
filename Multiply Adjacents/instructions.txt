@@ -1,0 +1,5 @@
+Multiplying Adjacent Indices
+
+Some cows arrange themselves in a ring. Each cow has an id number. They play a game where each multiplies the id numbers of the cows before and after itself by its own number to get a product of three numbers. 
+They do this simultaneously, so all multiplications are done using the original numbers. The input array represents the id numbers of all cows in the order they're standing. Keep in mind that the first and last cow are also adjacent due to the ring shape. 
+Change the array so it stores the modified id numbers for each cow. Also return the sum of the modified numbers.
