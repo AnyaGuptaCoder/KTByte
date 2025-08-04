@@ -1,0 +1,4 @@
+A Little Off the Top
+"Trim" an array to the given size by removing rows and columns from the TOP and LEFT, and returning a new array with the remaining elements.
+
+Hint: This means an element originally at [2][3] might end up at [0][0] in the trimmed array, for example (if removing 2 rows and 3 columns).
