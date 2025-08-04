@@ -1,0 +1,2 @@
+Tile Expansion
+Create a new array with contents produced by "tiling" an original array n times - repeating the array as a whole such that different instances are adjacent without interrupting each others' interiors. See the starter code for an example.
